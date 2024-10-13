@@ -8,5 +8,7 @@ public class exercicio4 {
         int posterior = n+1;
 
         System.out.println(antecessor + " " +  posterior);
+        sc.close();
     }
+    
 }
